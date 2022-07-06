@@ -161,6 +161,14 @@
 .mission{
     font-size:30px ;
 }
+.mission-btn{
+    background-color:orangered ;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+
+}
 
 .mission-3{
     margin-top: 100px;
@@ -181,18 +189,17 @@
     font-size: 20px;
 }
 
-.card1{
-    width: 300px;
+.card10{
+    width: 600px;
     height: 250px;
     border: 1px solid gray;
-    text-align: left;
-    box-shadow: 8px 8px 16px gray;
-    padding: 10px;
     border-radius: 5px;
     
     
-    
 
+}
+.email{
+    padding: 120px;
 }
 
 .f_data{
