@@ -194,3 +194,20 @@
     
 
 }
+
+.f_data{
+    background-color: black;
+    text-align: center;
+    height: 170px;
+    padding: 30px 0px 10px;
+    
+}
+.f_data_1{
+    color: brown;
+    
+}
+
+.f_data_2{
+    color: white;
+    margin: 30px;
+}
